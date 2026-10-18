@@ -82,7 +82,7 @@ The exact version ranges are in the root [package.json](./package.json), [backen
 
    Alternatively, run `npm run dev --prefix backend` and `npm run dev --prefix frontend` in separate terminals.
 
-The frontend is available at [http://localhost:3000](http://localhost:3000), and the backend health endpoint is [http://localhost:5000](http://localhost:5000).
+
 
 ## Useful commands
 
