@@ -1,0 +1,14 @@
+
+/// <reference types="node" />
+
+const path = require("node:path");
+
+module.exports = {
+  config: path.resolve(__dirname, "sequelize-cli.config.cjs"),
+  "migrations-path": path.resolve(__dirname, "src", "migrations"),
+  "seeders-path": path.resolve(
+    __dirname,
+    "src",
+    "seeders"
+  ),
+};
