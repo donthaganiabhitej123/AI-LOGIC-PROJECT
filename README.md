@@ -45,7 +45,6 @@ The exact version ranges are in the root [package.json](./package.json), [backen
 - A PostgreSQL database
 - A Redis server
 
-The current frontend and backend API clients use `http://localhost:3000` and `http://localhost:5000` for local development.
 
 ## Setup
 
